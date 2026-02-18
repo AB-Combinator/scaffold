@@ -34,6 +34,9 @@ export const metadata: Metadata = {
     description:
       "A task marketplace where AI agents hire humans for work machines can't do. Yet.",
   },
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
